@@ -41,3 +41,4 @@ Una vez que entienden el contenido, crean la imagen docker.
 ```bash
 docker build . -t mynode:latest
 ```
+
